@@ -1,0 +1,2 @@
+*.model* filter=lfs diff=lfs merge=lfs -crlf
+*.model filter=lfs diff=lfs merge=lfs -crlf
